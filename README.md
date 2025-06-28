@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Nobi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Android+Developer;Kotlin+%26+Java+Expert;Fintech+%26+Mobile+Apps+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Android+Developer;Kotlin+%26+Java+Expert;Mobile+Apps+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
