@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Toolkit
 
-Kotlin, Java, Flutter, Jetpack Compose, Compose Multiplatform, MVVM, MVI, Clean Architecture, Firebase, Retrofit, Room, CI/CD, Git
+Kotlin, Java, Jetpack Compose, Compose Multiplatform, MVVM, MVI, Clean Architecture, Firebase, Retrofit, Room, CI/CD, Git
 
 ## 🌟 Highlights
 
@@ -52,7 +52,7 @@ I’ve also contributed to projects like **MyZesty**, a feature-rich media editi
 ---
 
 <div align="center">
-  <i>“Transforming fintech ideas into secure, delightful Android experiences — one commit at a time.”</i>
+  <i>“Transforming ideas into delightful mobile app experiences — one commit at a time.”</i>
 </div>
 
 ---
