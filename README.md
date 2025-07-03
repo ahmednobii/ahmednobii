@@ -1,149 +1,58 @@
-# Hi there, I'm Ahmed Nobi 👋
+# Hi, I’m Ahmed Nobi 🚀
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Android+Developer;Kotlin+%26+Java+Expert;Mobile+Apps+Specialist;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
+**Senior Android Developer** 🚀
 
----
+## 🗓️ My Android Timeline
 
-## 🚀 About Me
+* 2018 | 👨‍💻 Started building Android education and eCommerce apps
+* 2019–2021 | 📦 Published YouBox & I-Drive, grew Kotlin/Flutter skills
+* 2022 | 🎓 Android SME at SureSkills, developed training projects
+* 2023 | 🎨 Worked on MyZesty & ViuLive at Beyond Apps Group
+* 2024–Now | 💳 Senior Android Dev at Cashi (MVVM, MVI, KMP, CMP)
 
-I'm a passionate **Senior Android Developer** with **5+ years of experience** building high-performance, user-centric mobile applications. Currently working in the **fintech industry** at Cashi, where I collaborate with cross-functional teams to create innovative Android solutions that enhance user engagement and drive business growth.
+## 🛠️ Tech Toolkit
 
-- 🔭 **Currently working on:** Cashi fintech applications (MyCashi, Cashi Lite, Cashi Mobile)
-- 🌱 **Learning:** Kotlin Multiplatform (KMP) and advanced Android architecture patterns
-- 💼 **Experience:** 300+ students trained, 10+ published apps, multiple industries (fintech, media, eCommerce)
-- 🎯 **Focus:** Performance optimization, scalable architecture, and cutting-edge Android technologies
-- 📍 **Location:** Cairo, Egypt
-- 📧 **Contact:** [ahmed.nobi95@gmail.com](mailto:ahmed.nobi95@gmail.com)
+Kotlin, Java, Flutter, Jetpack Compose, Compose Multiplatform, MVVM, MVI, Clean Architecture, Firebase, Retrofit, Room, CI/CD, Git
 
----
+## 🌟 Highlights
 
-## 🛠️ Tech Stack & Expertise
+* 🚀 Cashi: secure fintech payments
+* 🎨 MyZesty: media editing platform
+* 📺 ViuLive: live streaming
+* 🚗 I-Drive: driving school app
+* 🛒 YouBox: eCommerce marketplace
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+## 🤓 Fun Facts
 
-### 🏗️ Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-4ECDC4?style=for-the-badge)
-![MVP](https://img.shields.io/badge/MVP-45B7D1?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-96CEB4?style=for-the-badge)
+* Proudly from Upper Egypt
+* Love sharing knowledge & mentoring
+* Debugged an app on a train 🚆
+* Experiment Android betas even if they break my phone
+* Motto: Code with purpose, build with passion
 
-### 🔧 Libraries & Frameworks
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-FF6B35?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-FF9800?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge)
-![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge)
+## 📫 Connect
 
-### ☁️ Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔄 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge)
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Senior Android Developer** @ Cashi (Nov 2024 - Present)
-- Developing innovative fintech applications with focus on **performance** and **scalability**
-- Working on **MyCashi**, **Cashi Lite**, and **Cashi Mobile** products
-- Implementing **modern Android architecture** and **best practices**
-
-### 🏢 **Senior Android Developer** @ Beyond Apps Group (Dec 2023 - Oct 2024)
-- Led development of **MyZesty** (media editing app) and **ViuLive** (live streaming)
-- Mentored junior developers and provided **technical guidance**
-- Focused on **usability**, **performance**, and **scalability**
-
-### 🎓 **Android Development SME** @ SureSkills (Remote - Sep 2022 - Jan 2023)
-- Created comprehensive **Android development courses**
-- Developed **documentation**, **video scripts**, and **practical projects**
-- Enhanced learning experience for **300+ students**
-
----
-
-## 🚀 Featured Projects
-
-### 💳 **Cashi** - Fintech Payment Platform
-*Technologies: Kotlin, Jetpack Compose, MVVM, Firebase, REST APIs*
-- Electronic payment services for Sudan market
-- High-performance architecture with real-time transactions
-- **Published** on Google Play Store
-
-### 🎨 **MyZesty** - Media Editing App
-*Technologies: Kotlin, Custom Views, Material Design, Room*
-- All-in-one image and video editing platform
-- Advanced editing tools with intuitive UI/UX
-- **Published** with 10K+ downloads
-
-### 📺 **ViuLive** - Live Streaming Platform
-*Technologies: Kotlin, WebRTC, Firebase, Real-time Database*
-- Multi-platform live streaming with various broadcasting options
-- Real-time chat and interaction features
-- **Published** and actively maintained
-
-### 🏪 **Tager** - B2B Marketplace
-*Technologies: Kotlin, MVVM, Retrofit, SQLite*
-- Connecting merchants with competitive products
-- Complex business logic and data management
-- Advanced search and filtering capabilities
+[LinkedIn](https://linkedin.com/in/ahmednobii) | [Gmail](mailto:ahmed.nobi95@gmail.com) | [GitHub](https://github.com/ahmednobii)
 
 
-## 🏆 Achievements & Contributions
+## 📖 My Story — For the Curious
 
-- 📱 **10+ Published Apps** across multiple industries
-- 👨‍🏫 **300+ Students Trained** in Android development
-- 🎖️ **Former Chairman** of IEEE Aswan Student Branch (First in Upper Egypt)
-- 📚 **Course Creator** for Android development curriculum
-- 🤝 **Active Mentor** in IEEE and tech communities
+If you’d like a closer look behind the scenes of my journey
 
----
+Hello! I’m Ahmed Nobi, a passionate Senior Android Developer currently shaping the future of fintech at Cashi. My journey into mobile development began over five years ago, driven by a simple question: **how can a few lines of code transform daily life for millions?**
 
-## 🌟 What Sets Me Apart
+From building my first humble app in Upper Egypt to contributing to impactful fintech solutions today, my path has always been guided by a deep respect for clean code, architecture, and user-centered design. I’ve explored many technologies, but Android quickly became my home — a place where I can balance creativity, performance, and scalability.
 
-```kotlin
-class AhmedNobi : AndroidDeveloper {
-    
-    override val strengths = listOf(
-        "Performance Optimization Expert",
-        "Scalable Architecture Design",
-        "Cross-functional Team Leadership",
-        "Continuous Learning Mindset",
-        "User-Centric Development"
-    )
-    
-    override val passion = "Creating impactful mobile solutions"
-    override val motto = "Code with purpose, build with passion"
-    
-    fun getCurrentFocus() = "Kotlin Multiplatform & Modern Android"
-}
-```
+At Cashi, I’m helping to build secure, reliable, and user-focused financial products for Sudan and beyond. I work daily with **MVVM** and **MVI** architecture patterns, explore **Kotlin Multiplatform (KMP)** for code sharing, and apply **Compose Multiplatform (CMP)** to create modern, consistent user experiences. Working closely with talented cross-functional teams, I help ship products like MyCashi, Cashi Lite, and Cashi Mobile.
 
----
+Beyond product work, I’ve also contributed as an Android Subject Matter Expert with SureSkills, creating training materials and practical projects to support other developers in mastering Android best practices. That experience deepened my commitment to knowledge sharing and technical excellence.
 
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmednobii)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.nobi95@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmednobii)
-
-</div>
+I’ve also contributed to projects like **MyZesty**, a feature-rich media editing platform, and **ViuLive**, a real-time live streaming application — experiences that taught me how to build for usability, performance, and scalability while collaborating with diverse, talented teams.
 
 ---
 
 <div align="center">
-  <p><i>"Turning ideas into elegant Mobile App solutions, one commit at a time."</i></p>
+  <i>“Transforming fintech ideas into secure, delightful Android experiences — one commit at a time.”</i>
 </div>
+
+---
