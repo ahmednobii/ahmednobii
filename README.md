@@ -2,6 +2,8 @@
 
 **Senior Android Developer** 🚀
 
+🌐 **Portfolio & Blog**: [ahmednobi.me](https://ahmednobi.me)
+
 ## 🗓️ My Android Timeline
 
 * 2018 | 👨‍💻 Started building Android education and eCommerce apps
@@ -32,7 +34,7 @@ Kotlin, Java, Jetpack Compose, Compose Multiplatform, MVVM, MVI, Clean Architect
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/ahmednobii) | [Gmail](mailto:ahmed.nobi95@gmail.com) | [GitHub](https://github.com/ahmednobii)
+🌐 [ahmednobi.me](https://ahmednobi.me) | [LinkedIn](https://linkedin.com/in/ahmednobii) | [Gmail](mailto:ahmed.nobi95@gmail.com) | [GitHub](https://github.com/ahmednobii)
 
 
 ## 📖 My Story — For the Curious
