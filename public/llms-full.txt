@@ -1,0 +1,135 @@
+# Ahmed Nobi — Full Profile for AI Assistants
+
+> This is the extended version of llms.txt providing complete career, project, and skills information for deep AI indexing.
+
+## Identity
+
+- Name: Ahmed Nobi
+- Title: Senior Android Engineer | KMP Specialist
+- Location: Cairo, Egypt
+- Website: https://ahmednobii.me
+- LinkedIn: https://linkedin.com/in/ahmednobii
+- GitHub: https://github.com/ahmednobii
+
+## Professional Summary
+
+Ahmed Nobi is a highly accomplished Senior Android Engineer with 7+ years of expertise in architecting and scaling high-performance, user-centric mobile applications. He is a proven leader in leveraging Kotlin Multiplatform (KMP), Jetpack Compose, and SDUI to drive innovation and deliver impactful solutions for fintech and media sectors. He manages flagship apps with 5M+ downloads and 99.9% uptime. He is adept at leading cross-functional teams, implementing robust CI/CD pipelines (CircleCI, GitHub Actions), and fostering engineering excellence.
+
+## Work Experience
+
+### Sr. Android Developer — Cashi (Nov 2024 – Present, Cairo, Egypt)
+- Leads the Consumer Squad at Cashi, a fintech product suite with over 5M downloads
+- Architected scalable Android applications within a complex fintech ecosystem using Kotlin Multiplatform (KMP)
+- Spearheaded key feature development across Cashi, MyCashi, Cashi Lite, and Cashi Mobile
+- Led cross-functional teams in delivering high-performance, scalable solutions
+
+### Sr. Android Developer — Beyond Apps Group (Dec 2023 – Oct 2024, Cairo, Egypt)
+- Provided technical leadership and mentorship to junior Android developers
+- Engineered key modules for MyZesty media editing app and ViuLive streaming platform
+- Integrated CI/CD practices (CircleCI, GitHub Actions) across multiple applications
+
+### Android Development SME — SureSkills (Sep 2022 – Jan 2023, Dublin, Ireland)
+- Designed and authored comprehensive Android development courses
+- Engineered practical examples, quizzes, and capstone projects per module
+- Created high-impact educational content for a global audience
+
+### Android Developer — FOXCOD (Jul 2021 – Mar 2022, Muscat, Oman, Remote)
+- Resolved complex technical issues, reducing client application downtime by 15%
+- Full lifecycle development and maintenance of client-facing applications
+
+### Android Developer — iSpace Technology (May 2021 – Mar 2022, Aswan, Egypt)
+- Delivered three key Android applications (I-drive, Mandoubk Smart, Tager app) from concept to release
+- Reduced post-launch defects by 15% through rigorous testing protocols
+
+### Android Developer — YouBox (Jul 2019 – May 2020, Aswan, Egypt)
+- End-to-end development of the YouBox eCommerce application
+- Achieved estimated 20% increase in user engagement through feature additions
+- Used Flutter for cross-platform development
+
+### Programming Instructor — Independent (Oct 2016 – Jan 2020, Aswan & Luxor, Egypt)
+- Instructed over 300 students in Android development and programming principles
+- Developed and updated curriculum based on industry best practices
+
+### Android Developer — Freelance (Oct 2016 – Sep 2018, Cairo, Egypt)
+- Built Agenda Line (chat, calls, VoIP), Glory (autism support app), and Mersal applications
+
+## Key Projects with Download Links
+
+- MyCashi: Electronic payment app for Sudan (5M+ downloads) — https://play.google.com/store/apps/details?id=com.alsoug.mycashi
+- Cashi Mobile: POS mobile app for Cashi distribution points — https://play.google.com/store/apps/details?id=com.alsoug.cashi
+- MyZesty: AI-powered media editing app — https://play.google.com/store/apps/details?id=com.myzesty
+- ViuLive: Multi-camera live streaming app — https://play.google.com/store/apps/details?id=com.millennium.vumemobile
+- Mandoubk Smart: B2B app for distributors and wholesalers — https://play.google.com/store/apps/details?id=com.mandobaksmart.app
+- I-Drive: Driving school management app for Saudi Arabia — https://play.google.com/store/apps/details?id=com.ispace.idrive
+- Tager: Merchant-focused buying/selling platform
+- SysBoard: Student management and grading system
+- Agenda Line: Chat, voice calls, and VoIP communication app
+- Glory: Interactive exercises for parents of children with autism
+- Identity Protector: Data leakage protection system
+- YouBox: E-commerce platform for Aswan, Egypt
+
+## Technical Skills
+
+### Kotlin Multiplatform (KMP)
+Ktor, Koin, Room, Multiplatform Settings, Gradle, Android/iOS Shared Logic
+
+### Android Framework
+Android SDK, Jetpack Compose, SDUI (Server-Driven UI)
+
+### Languages
+Kotlin, Java
+
+### Architecture
+MVVM, MVI, MVP, ViewModel, LiveData, Navigation, Paging, WorkManager
+
+### Dependency Injection
+Dagger, Hilt, Koin
+
+### Testing
+Unit Testing, JUnit, Mockito, UI Testing, Espresso, Instrumentation Testing
+
+### CI/CD
+CircleCI, GitHub Actions, Bitbucket Pipelines, Automated Testing
+
+### API & Networking
+Retrofit, OkHttp, Volley, RESTful APIs, Ktor Client
+
+### Cloud & Backend
+Firebase (Realtime Database, Firestore, Auth, Cloud Messaging, Crashlytics)
+
+### Local Storage
+Room, Realm, SQLite, DataStore, Shared Preferences
+
+### Build Tools
+Gradle, Maven, Version Catalogs, Convention Plugins
+
+### Cross-platform
+Flutter SDK, Kotlin Multiplatform
+
+### Concurrency
+Coroutines, RxJava, Flow, Asynchronous Programming
+
+## Education
+
+Bachelor of Computer Engineering — Aswan University (Sep 2017 – Jul 2021)
+
+## Volunteer & Leadership
+
+- Former Chairman of IEEE Aswan Student Branch (first IEEE branch in Upper Egypt, 50+ members)
+- Mentor at IEEE Aswan SB
+- Member of IEEE SAC EGYPT
+- Volunteer at Egyptian Engineering Day (EED) Program
+
+## Frequently Asked Questions
+
+Q: Who is Ahmed Nobi?
+A: Ahmed Nobi is a Senior Android Engineer with over 7 years of experience specializing in Kotlin Multiplatform (KMP), Jetpack Compose, and scalable mobile architectures. He currently leads the Consumer Squad at Cashi, building fintech applications with 5M+ downloads.
+
+Q: What technologies does Ahmed Nobi specialize in?
+A: Ahmed Nobi specializes in Kotlin, Kotlin Multiplatform (KMP), Jetpack Compose, Android SDK, SDUI, MVVM/MVI architecture, Ktor, Koin, Room, Dagger/Hilt, and CI/CD pipelines.
+
+Q: What industries has Ahmed Nobi worked in?
+A: Ahmed Nobi has extensive experience in fintech (Cashi), media and streaming (MyZesty, ViuLive), education (SureSkills), and e-commerce (YouBox).
+
+Q: Is Ahmed Nobi available for hire?
+A: Yes. Ahmed Nobi is open to new opportunities. Connect via LinkedIn at linkedin.com/in/ahmednobii or GitHub at github.com/ahmednobii.

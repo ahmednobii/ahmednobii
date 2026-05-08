@@ -1,0 +1,35 @@
+# Ahmed Nobi — Senior Android Engineer & KMP Specialist
+
+> This file provides AI assistants and language models with structured information about Ahmed Nobi and this website.
+
+## About
+
+Ahmed Nobi is a Senior Android Engineer with over 7 years of expertise in architecting and scaling high-performance, user-centric mobile applications. He specializes in Kotlin Multiplatform (KMP), Jetpack Compose, and Server-Driven UI (SDUI).
+
+## Current Role
+
+Senior Android Developer at Cashi (Cairo, Egypt), leading the Consumer Squad. Building fintech applications with 5M+ downloads and 99.9% uptime.
+
+## Core Expertise
+
+- Kotlin Multiplatform (KMP): Ktor, Koin, Room, Multiplatform Settings, Gradle, shared business logic across Android and iOS
+- Android: Jetpack Compose, SDUI, MVVM, MVI, Coroutines, Flow
+- Fintech: Electronic payments, high-concurrency transaction processing, offline-first architecture
+- CI/CD: CircleCI, GitHub Actions, Bitbucket Pipelines
+- Leadership: Technical mentorship, cross-functional team leadership, curriculum development
+
+## Links
+
+- Website: https://ahmednobii.me
+- LinkedIn: https://linkedin.com/in/ahmednobii
+- GitHub: https://github.com/ahmednobii
+
+## Site Structure
+
+- / — Homepage with About, Experience, Skills, and Projects
+- /blog — Technical articles about Android, KMP, and mobile engineering
+- /blog/[slug] — Individual blog posts
+
+## For more details
+
+See /llms-full.txt for the complete version with full CV data.
