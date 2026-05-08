@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ahmednobii.me"),
+  metadataBase: new URL("https://ahmednobi.me"),
   title: {
     default: "Ahmed Nobi — Senior Android Engineer & KMP Specialist",
     template: "%s | Ahmed Nobi",
@@ -26,12 +26,12 @@ export const metadata: Metadata = {
     "Cairo",
     "Egypt",
   ],
-  authors: [{ name: "Ahmed Nobi", url: "https://ahmednobii.me" }],
+  authors: [{ name: "Ahmed Nobi", url: "https://ahmednobi.me" }],
   creator: "Ahmed Nobi",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ahmednobii.me",
+    url: "https://ahmednobi.me",
     siteName: "Ahmed Nobi — Portfolio",
     title: "Ahmed Nobi — Senior Android Engineer & KMP Specialist",
     description:
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://ahmednobii.me",
+    canonical: "https://ahmednobi.me",
   },
 };
 
@@ -74,7 +74,7 @@ const personJsonLd = {
   "@type": "Person",
   name: "Ahmed Nobi",
   jobTitle: "Senior Android Engineer",
-  url: "https://ahmednobii.me",
+  url: "https://ahmednobi.me",
   sameAs: [
     "https://linkedin.com/in/ahmednobii",
     "https://github.com/ahmednobii",
@@ -107,7 +107,7 @@ const websiteJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Ahmed Nobi — Portfolio",
-  url: "https://ahmednobii.me",
+  url: "https://ahmednobi.me",
   author: {
     "@type": "Person",
     name: "Ahmed Nobi",

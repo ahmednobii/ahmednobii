@@ -7,7 +7,7 @@
 - Name: Ahmed Nobi
 - Title: Senior Android Engineer | KMP Specialist
 - Location: Cairo, Egypt
-- Website: https://ahmednobii.me
+- Website: https://ahmednobi.me
 - LinkedIn: https://linkedin.com/in/ahmednobii
 - GitHub: https://github.com/ahmednobii
 

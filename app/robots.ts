@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
       },
     ],
-    sitemap: "https://ahmednobii.me/sitemap.xml",
+    sitemap: "https://ahmednobi.me/sitemap.xml",
   };
 }

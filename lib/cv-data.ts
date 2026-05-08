@@ -43,7 +43,7 @@ export const personalInfo = {
   location: "Cairo, Egypt",
   linkedin: "https://linkedin.com/in/ahmednobii",
   github: "https://github.com/ahmednobii",
-  website: "https://ahmednobii.me",
+  website: "https://ahmednobi.me",
 };
 
 // ─── About ───────────────────────────────────────────────────────────────────

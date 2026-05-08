@@ -57,14 +57,14 @@ export default async function BlogPost({ params }: Props) {
     author: {
       "@type": "Person",
       name: "Ahmed Nobi",
-      url: "https://ahmednobii.me",
+      url: "https://ahmednobi.me",
     },
     description: post.excerpt,
     keywords: post.tags.join(", "),
-    url: `https://ahmednobii.me/blog/${post.slug}`,
+    url: `https://ahmednobi.me/blog/${post.slug}`,
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://ahmednobii.me/blog/${post.slug}`,
+      "@id": `https://ahmednobi.me/blog/${post.slug}`,
     },
   };
 
