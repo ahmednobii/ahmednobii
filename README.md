@@ -1,59 +1,41 @@
-# 🚀 ahmednobii.me
+Hi, I’m Ahmed Nobi 🚀
+Senior Android Developer 🚀
 
-> **Coming Soon** — My professional portfolio & blog is under construction.
+🗓️ My Android Timeline
+2018 | 👨‍💻 Started building Android education and eCommerce apps
+2019–2021 | 📦 Published YouBox & I-Drive, grew Kotlin/Flutter skills
+2022 | 🎓 Android SME at SureSkills, developed training projects
+2023 | 🎨 Worked on MyZesty & ViuLive at Beyond Apps Group
+2024–Now | 💳 Senior Android Dev at Cashi (MVVM, MVI, KMP, CMP)
+🛠️ Tech Toolkit
+Kotlin, Java, Flutter,Jetpack Compose, Compose Multiplatform, MVVM, MVI, Clean Architecture, Firebase, Retrofit, Room, CI/CD, Git
 
-[![Deploy](https://github.com/ahmednobii/portfolio-source/actions/workflows/deploy.yml/badge.svg)](https://github.com/ahmednobii/portfolio-source/actions/workflows/deploy.yml)
+🌟 Highlights
+🚀 Cashi: secure fintech payments
+🎨 MyZesty: media editing platform
+📺 ViuLive: live streaming
+🚗 I-Drive: driving school app
+🛒 YouBox: eCommerce marketplace
+🤓 Fun Facts
+Proudly from Upper Egypt
+Love sharing knowledge & mentoring
+Debugged an app on a train 🚆
+Experiment Android betas even if they break my phone
+Motto: Code with purpose, build with passion
+📫 Connect
+LinkedIn | Gmail | GitHub
 
----
+📖 My Story — For the Curious
+If you’d like a closer look behind the scenes of my journey
 
-## What's Inside
+Hello! I’m Ahmed Nobi, a passionate Senior Android Developer currently shaping the future of fintech at Cashi. My journey into mobile development began over five years ago, driven by a simple question: how can a few lines of code transform daily life for millions?
 
-A dark-mode developer portfolio built with **Next.js 14**, **Tailwind CSS**, and **TypeScript** — statically exported and deployed to GitHub Pages.
+From building my first humble app in Upper Egypt to contributing to impactful fintech solutions today, my path has always been guided by a deep respect for clean code, architecture, and user-centered design. I’ve explored many technologies, but Android quickly became my home — a place where I can balance creativity, performance, and scalability.
 
-### ✨ Features
-- **About, Experience, Skills & Projects** — populated from my CV
-- **Markdown Blog** — just add a `.md` file and push
-- **SEO Optimized** — Open Graph, JSON-LD, sitemap, robots.txt
-- **AI SEO** — `llms.txt` for ChatGPT, Perplexity & Google AI Overviews
-- **Auto-Deploy** — GitHub Actions → `ahmednobii.github.io`
+At Cashi, I’m helping to build secure, reliable, and user-focused financial products for Sudan and beyond. I work daily with MVVM and MVI architecture patterns, explore Kotlin Multiplatform (KMP) for code sharing, and apply Compose Multiplatform (CMP) to create modern, consistent user experiences. Working closely with talented cross-functional teams, I help ship products like MyCashi, Cashi Lite, and Cashi Mobile.
 
-### 🛠 Tech Stack
-| Layer | Tech |
-|-------|------|
-| Framework | Next.js 14 (App Router) |
-| Styling | Tailwind CSS v3 |
-| Blog | Markdown + gray-matter + remark |
-| Deploy | GitHub Actions → GitHub Pages |
-| Domain | [ahmednobii.me](https://ahmednobii.me) |
+Beyond product work, I’ve also contributed as an Android Subject Matter Expert with SureSkills, creating training materials and practical projects to support other developers in mastering Android best practices. That experience deepened my commitment to knowledge sharing and technical excellence.
 
----
+I’ve also contributed to projects like MyZesty, a feature-rich media editing platform, and ViuLive, a real-time live streaming application — experiences that taught me how to build for usability, performance, and scalability while collaborating with diverse, talented teams.
 
-## Getting Started
-
-```bash
-npm install
-npm run dev     # → http://localhost:3000
-npm run build   # → static export to ./out
-```
-
-## Writing a Blog Post
-
-Create a file in `content/blog/`:
-
-```markdown
----
-title: "Your Title"
-date: "2026-05-09"
-tags: ["android", "kmp"]
-excerpt: "A brief summary."
----
-
-Your content here...
-```
-
-Push to `main` → live within 1 minute.
-
----
-
-**Ahmed Nobi** · Senior Android Engineer | KMP  
-[LinkedIn](https://linkedin.com/in/ahmednobii) · [GitHub](https://github.com/ahmednobii)
+“Transforming fintech ideas into secure, delightful Androidmobile app experiences — one commit at a time.”
