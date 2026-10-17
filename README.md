@@ -2,7 +2,7 @@
 
 **Senior Android Developer** 🚀
 
-🌐 **Portfolio & Blog**: [ahmednobi.me](https://ahmednobi.me)
+🌐 **Portfolio & Blog**: [ahmednobi.dev](https://ahmednobi.dev)
 
 ## 🗓️ My Android Timeline
 
@@ -34,7 +34,7 @@ Kotlin, Java, Jetpack Compose, Compose Multiplatform, MVVM, MVI, Clean Architect
 
 ## 📫 Connect
 
-🌐 [ahmednobi.me](https://ahmednobi.me) | [LinkedIn](https://linkedin.com/in/ahmednobii) | [Gmail](mailto:ahmed.nobi95@gmail.com) | [GitHub](https://github.com/ahmednobii)
+🌐 [ahmednobi.dev](https://ahmednobi.dev) | [LinkedIn](https://linkedin.com/in/ahmednobii) | [Gmail](mailto:ahmed.nobi95@gmail.com) | [GitHub](https://github.com/ahmednobii)
 
 
 ## 📖 My Story — For the Curious
